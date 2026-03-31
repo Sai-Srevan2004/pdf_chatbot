@@ -1,0 +1,16 @@
+fastapi
+uvicorn
+python-dotenv
+langchain
+langchain-groq
+langchain-community
+langchain-text-splitters
+langchain-core
+faiss-cpu
+rank-bm25
+pypdf
+pydantic
+pydantic-settings
+ragas
+datasets
+python-multipart

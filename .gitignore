@@ -1,0 +1,10 @@
+.env
+__pycache__/
+*.pyc
+venv/
+myvenv/
+logs/
+*.jsonl
+temp_*.pdf
+faiss_index/
+eval_results.json
