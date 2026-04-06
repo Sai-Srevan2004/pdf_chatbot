@@ -8,3 +8,5 @@ logs/
 temp_*.pdf
 faiss_index/
 eval_results.json
+*.pdf
+pdf_chatbot.egg-info
